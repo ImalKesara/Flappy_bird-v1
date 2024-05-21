@@ -11,7 +11,7 @@ public class Main {
         FlappyBird flappyBird = new FlappyBird();
         JFrame frame =  new JFrame("Flappy bird");
         frame.setSize(BoardWidth,BoardHeight);
-        frame.setLocationRelativeTo(null);
+        frame.setLocationRelativeTo(null); //center
         frame.setVisible(true);
         frame.setResizable(false);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
