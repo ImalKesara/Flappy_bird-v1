@@ -16,6 +16,7 @@ public class Main {
         frame.setResizable(false);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.add(flappyBird);
+        flappyBird.requestFocus();
         frame.pack();
 
 
