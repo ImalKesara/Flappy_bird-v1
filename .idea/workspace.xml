@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15e09fe0-0090-4d50-8631-8c3bc7c0e21a" name="Changes" comment="setting canva">
+    <list default="true" id="15e09fe0-0090-4d50-8631-8c3bc7c0e21a" name="Changes" comment="velocity x and y">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FlappyBird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlappyBird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,12 @@
       <workItem from="1716231924178" duration="3052000" />
       <workItem from="1716236583637" duration="616000" />
       <workItem from="1716277871252" duration="35000" />
-      <workItem from="1716298336697" duration="2021000" />
+      <workItem from="1716298336697" duration="2973000" />
+      <workItem from="1716303037981" duration="10000" />
+      <workItem from="1716305700362" duration="102000" />
+      <workItem from="1716402888929" duration="5000" />
+      <workItem from="1716409448713" duration="311000" />
+      <workItem from="1716449034205" duration="768000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -96,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716233502814</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="velocity x and y">
+      <option name="closed" value="true" />
+      <created>1716300671007</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716300671007</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +117,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="setting canva" />
-    <option name="LAST_COMMIT_MESSAGE" value="setting canva" />
+    <MESSAGE value="velocity x and y" />
+    <option name="LAST_COMMIT_MESSAGE" value="velocity x and y" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
